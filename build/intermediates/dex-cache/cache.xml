@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_0eb57939433ae228f0db34a5ca5eca213d47674a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_0414d04bbec6c90c4c2e919f63b1f7870edaa6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_fc7523350a6004ad523936d90b8a8a546c54bcef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_7b1cace33b1617817e7dc44ee8b78de1f4f32707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9ee63a3f4422172c46d20b1620e1f7787d5a021c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a68695575359893ed98154492a40983ede8abd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_70b5e6bd100b96529e43646da92d80337466e88b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_0b9eee849b53edc5b5ac94ebaf02b616762a38ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_e6c8ac80e86c151ee0e1cedf68560bfef0396127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_741a990baf15403fb11db196a84d39fbc8bf4c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_61cca9a6d0de26d3ca0098158d02084768195c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_02cdb9fa763252397f2b8da8da4a5689b754b5be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studiofile\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_38a4b81e4ae85488d45b03384d9a0e2b957f2c26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_8abbd41dfccb295a2abd50f1fe39da08044af909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\android_code\MPermissions-master (1)\MPermissions-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5834a50156f28f4ad9bdb68b37b45e13727d2f4c.jar" />
+    </item>
+
+</items>
